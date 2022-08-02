@@ -10,3 +10,4 @@ fetch
 helloworld
 new branch
 branch1
+branch merge
